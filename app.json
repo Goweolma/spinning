@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Spinning Club",
+    "slug": "spinning-club",
+    "scheme": "spinningclub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "permissions": []
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
